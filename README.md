@@ -86,7 +86,7 @@ Por isso, podemos concluir que a localização geográfica não influencia de fo
 ---
 
 ## 📝 Análise Final
-1. Faturamento total das lojas
+**1. Faturamento total das lojas**
 Loja 1: R$ 1.534.509,12
 Loja 2: R$ 1.488.459,06
 Loja 3: R$ 1.464.025,03
@@ -95,7 +95,7 @@ Loja 4: R$ 1.384.497,58
 Análise:
 A Loja 4 tem o menor faturamento entre as quatro, com uma diferença relevante para as demais. Loja 1 lidera com folga.
 
-2. Categorias mais e menos vendidas
+**2. Categorias mais e menos vendidas**
 Padrão observado:
 
 As categorias com maior faturamento em todas as lojas são eletrodomésticos e eletrônicos.
@@ -107,7 +107,7 @@ A diferença é mais expressiva no segmento de eletrodomésticos: Loja 1 vendeu 
 Análise:
 A Loja 4 tem baixa performance nas categorias principais, o que impacta diretamente seu faturamento.
 
-3. Média das avaliações de clientes
+**3. Média das avaliações de clientes**
 Loja 1: 3.98
 Loja 2: 4.04
 Loja 3: 4.05
@@ -117,7 +117,7 @@ Análise:
 Todas as lojas têm boas avaliações, porém a Loja 4 não se destaca e fica atrás das lojas 2 e 3.
 A Loja 3 é a mais bem avaliada, seguida pela Loja 2.
 
-4. Produtos mais e menos vendidos
+**4. Produtos mais e menos vendidos**
 Loja 1: Mais vendido: Micro-ondas (60) | Menos vendido: Celular ABXY (33)
 
 Loja 2: Mais vendido: Iniciando em programação (65) | Menos vendido: Jogo de tabuleiro (32)
@@ -130,7 +130,7 @@ Análise:
 A Loja 4 tem um produto bem vendido (Cama box - 62 unidades), mas seus números são semelhantes aos das demais.
 Não há um produto campeão ou um grande fracasso que a diferencie nesse quesito.
 
-5. Frete médio por loja
+**5. Frete médio por loja**
 Loja 1: R$ 34,69
 Loja 2: R$ 33,62
 Loja 3: R$ 33,07
@@ -140,7 +140,7 @@ Análise:
 A Loja 4 tem o menor custo médio de frete, o que é um ponto positivo.
 Porém, essa economia não foi suficiente para impulsionar o faturamento ou superar os desempenhos inferiores nas vendas e avaliações.
 
-✅ Síntese das forças e fraquezas da Loja 4:
+**✅ Síntese das forças e fraquezas da Loja 4:**
 Aspecto	Situação da Loja 4
 Faturamento	❌ Menor entre todas
 Categorias	❌ Menores vendas nas principais
@@ -148,10 +148,10 @@ Avaliações	❌ Não se destaca, mediana
 Produtos vendidos	⚖️ Sem diferenciais relevantes
 Frete médio	✅ Mais baixo
 
-✅ Recomendação final:
+**✅ Recomendação final:**
 Com base nos dados analisados, a Loja 4 é a mais indicada para ser vendida.
 
-Justificativas:
+**Justificativas:*
 Desempenho inferior: menor faturamento e desempenho abaixo das outras lojas nas principais categorias.
 
 Avaliação mediana: não possui diferenciais em satisfação de clientes que justifiquem a manutenção.
@@ -160,7 +160,7 @@ Frete mais barato: apesar do menor custo de frete, isso não compensou a baixa p
 
 Potencial para venda: a venda dessa unidade pode permitir ao Sr. João capitalizar e investir em outro empreendimento ou melhorar as operações das lojas restantes, que demonstram desempenho superior.
 
-✅ Conclusão:
+## **✅ Conclusão:**
 Recomenda-se que o Senhor João venda a Loja 4, pois é a unidade menos eficiente sob os aspectos financeiros e comerciais.
 
 
