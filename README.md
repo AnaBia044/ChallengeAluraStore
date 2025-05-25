@@ -81,7 +81,7 @@ Esse resultado indica que as lojas possuem uma presença equilibrada no país, s
 Por isso, podemos concluir que a localização geográfica não influencia de forma relevante na escolha de qual loja deve ser vendida. A decisão deve considerar outros fatores mais importantes, como faturamento, tipos de produtos vendidos, avaliação dos clientes e custo de frete, que apresentaram diferenças mais claras entre as lojas.
 
 
-![Desempenho geográfico](assets/LojasAcumulado.png)
+![Desempenho geográfico](assets/LojasAcumuladoMapa.png)
 
 ---
 
