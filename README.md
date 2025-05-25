@@ -10,8 +10,8 @@
 - [Quarta análise: Produtos mais e menos vendidos](#-quarta-análise-produtos-mais-e-menos-vendidos)
 - [Quinta análise: Frete médio por loja](#-quinta-análise-frete-médio-por-loja)
 - [Sexta análise: Análise de desempenho geográfico](#-sexta-análise-análise-de-desempenho-geográfico)
-- [Relatório final](#-relatório-final)
-- [Autor](#-autor)
+- [Relatório final](#-análise-final)
+- [Autor](#-pessoa-desenvolvedora-do-challenge)
 
 ---
 
